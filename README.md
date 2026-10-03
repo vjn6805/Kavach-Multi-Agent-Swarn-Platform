@@ -23,7 +23,7 @@
 
 ## Live Demo
 
-> **Deployed Application:** [Kavach Live Link](https://kavach-frontend-two.vercel.app/)
+> **Deployed Application:** [Kavach Live Link](https://kavach-multi-agent-swarn-platform.vercel.app/)
 
  - Use the advisary report from the docs (uttarakhand_flood_advisory_2024.pdf) folder to upload and test the project.
  - You can also download the advisary report from the link (https://drive.google.com/file/d/1q1E4lZ16otUkySWdbuSKTc_FtsQEmfTj/view?usp=sharing)
@@ -32,7 +32,7 @@
 
 ## Video Demo
 
-> **Full Walkthrough:** [Google Drive Link](https://drive.google.com/file/d/1SR6kCl1LCJgnDndEsoEgXfX0Yq_SHl23/view?usp=sharing)
+> **Full Walkthrough:** [Google Drive Link]()
 
 ---
 
@@ -181,7 +181,7 @@ kavach/
 | Model | Provider | Usage |
 |---|---|---|
 | **claude-sonnet-4-5** | Anthropic | Agent persona generation |
-| **gemini-1.5-flash** | Google DeepMind | World state extraction + report synthesis |
+| **gemini-3.8** | Google DeepMind | World state extraction + report synthesis |
 | **llama-3.1** via Groq | Meta / Groq | Fallback for all LLM operations |
 
 ### Infrastructure
@@ -205,7 +205,7 @@ kavach/
 ### Step 1 — Clone
 
 ```bash
-git clone https://github.com/codewith-raj/3x-Devs
+git clone https://github.com/vjn6805/Kavach-Multi-Agent-Swarn-Platform
 cd Project
 ```
 

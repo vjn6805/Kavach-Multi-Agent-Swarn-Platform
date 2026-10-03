@@ -55,18 +55,6 @@ export default function SimulationPage() {
   const [notifications, setNotifications] = useState([])
   const [terminalExpanded, setTerminalExpanded] = useState(false)
 
-  useEffect(() => {
-    if (agents.length > 0 && pageState === 'processing') {
-      setPageState('ready')
-      setStepStatuses({
-        worldState: 'completed',
-        agentGen:   'completed',
-        simConfig:  'completed',
-        simRun:     'pending'
-      })
-    }
-  }, [agents])
-
   const addLog = useCallback((message, level = 'info') => {
     const timestamp = new Date().toLocaleTimeString('en-US', {
       hour12: false, hour: '2-digit', minute: '2-digit',
@@ -300,7 +288,6 @@ export default function SimulationPage() {
               ))}
             </div>
 
-            {/* Upload overlay */}
             {pageState === 'upload' && (
               <UploadOverlay onUpload={handleUpload} />
             )}
