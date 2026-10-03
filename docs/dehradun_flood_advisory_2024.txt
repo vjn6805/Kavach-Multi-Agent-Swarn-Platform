@@ -1,0 +1,233 @@
+UTTARAKHAND STATE DISASTER MANAGEMENT AUTHORITY
+DISTRICT DISASTER MANAGEMENT AUTHORITY - DEHRADUN
+FLASH FLOOD AND CLOUDBURST EMERGENCY ADVISORY
+
+Advisory No.: DDMA/DDN/2024/087
+Date: 14 August 2024
+Time: 05:30 IST
+Issued By: District Collector, Dehradun
+Classification: URGENT - IMMEDIATE ACTION REQUIRED
+
+========================================================
+1. DISASTER OVERVIEW
+========================================================
+
+Type: Flash Flood and Cloudburst
+Severity: Extreme
+Primary River: Rispana River
+Secondary River: Song River
+Affected District: Dehradun, Uttarakhand
+State: Uttarakhand
+Issuing Authority: District Disaster Management Authority, Dehradun
+
+Continuous heavy rainfall of 180mm recorded in the past 6 hours over the
+Mussoorie hills has caused the Rispana River to breach its banks at multiple
+points. The Song River is also running at 94 percent of its danger level.
+Cloudbursts have been reported over the Rajpur Road catchment area.
+Flash floods are actively inundating low-lying localities in the eastern
+and southern parts of Dehradun city. Landslide risk is HIGH on all
+hill-facing roads.
+
+========================================================
+2. ZONE CLASSIFICATION
+========================================================
+
+RED ZONE - IMMEDIATE EVACUATION ORDERED:
+
+- Kandoli
+  Area: Eastern Dehradun, near Rispana River bank
+  Coordinates: 30.3200 N, 78.0600 E
+  Status: Active flooding. Water level 1.2m above road level.
+  Risk: Extreme. Rispana River has breached embankment.
+
+- Niranjanpur
+  Area: Low-lying area, Rispana floodplain, central Dehradun
+  Coordinates: 30.3050 N, 78.0450 E
+  Status: Roads submerged. Evacuation route via NH-72 only.
+  Risk: Extreme. Multiple residential colonies cut off.
+
+- Sewla Kalan
+  Area: Song River adjacent, southern Dehradun
+  Coordinates: 30.2900 N, 78.0350 E
+  Status: Song River overflow. 3 residential colonies cut off.
+  Risk: Extreme. No road access currently available.
+
+AMBER ZONE - HIGH ALERT, PREPARE TO EVACUATE:
+
+- Raipur
+  Area: Mid-elevation, Rajpur Road corridor, eastern Dehradun
+  Coordinates: 30.3400 N, 78.1100 E
+  Status: Landslide debris on Rajpur Road. Partial road closure.
+  Risk: High. Situation may deteriorate in next 2 hours.
+
+- Majra
+  Area: Western Dehradun, near Bindal River tributary
+  Coordinates: 30.3300 N, 77.9900 E
+  Status: Waterlogging reported. Bindal tributary rising.
+  Risk: High. Monitor water levels continuously.
+
+SAFE ZONE - DESIGNATED EVACUATION DESTINATIONS:
+
+- Manduwala
+  Area: Northern Dehradun, elevated terrain
+  Coordinates: 30.3700 N, 78.0200 E
+  Status: Safe. Primary evacuation assembly point.
+  Capacity: Available for evacuees from all red zones.
+
+- Clement Town
+  Area: Southwestern Dehradun, army cantonment area
+  Coordinates: 30.2800 N, 78.0000 E
+  Status: Safe. Secondary evacuation point.
+  Capacity: Army assistance available for evacuees.
+
+========================================================
+3. ROAD STATUS
+========================================================
+
+BLOCKED ROADS - DO NOT USE:
+- Rispana Bridge Road (Kandoli to Niranjanpur) - bridge submerged
+- Sewla Kalan Link Road - 0.8m water on road
+- Rajpur Road km 12 to km 15 (Raipur section) - landslide debris
+
+SAFE EVACUATION ROUTES:
+- NH-72 Haridwar Road - open, use for southward evacuation
+- Saharanpur Road - open, use for northward evacuation to Manduwala
+- Ring Road Clement Town bypass - open
+
+========================================================
+4. EMERGENCY SHELTERS
+========================================================
+
+Shelter 1: Manduwala Government Inter College
+  Location: Manduwala, northern Dehradun
+  Zone: Manduwala
+  Coordinates: 30.3720 N, 78.0180 E
+  Capacity: 500 persons
+  Status: OPEN - 47 persons currently sheltered
+
+Shelter 2: Clement Town Community Hall
+  Location: Clement Town, southwestern Dehradun
+  Zone: Clement Town
+  Coordinates: 30.2820 N, 78.0020 E
+  Capacity: 350 persons
+  Status: OPEN - 23 persons currently sheltered
+
+Shelter 3: Niranjanpur Primary School
+  Location: Niranjanpur, central Dehradun
+  Zone: Niranjanpur
+  Coordinates: 30.3060 N, 78.0460 E
+  Capacity: 120 persons
+  Status: OPEN - ground floor flooded, use first floor only
+
+========================================================
+5. HOSPITALS AND MEDICAL FACILITIES
+========================================================
+
+Doon Government Hospital
+  Location: Niranjanpur area, central Dehradun
+  Zone: Niranjanpur
+  Coordinates: 30.3040 N, 78.0430 E
+  Status: Emergency ward operational. Backup generator active.
+
+Synergy Hospital
+  Location: Raipur Road, eastern Dehradun
+  Zone: Raipur
+  Coordinates: 30.3420 N, 78.1080 E
+  Status: Operational. Receiving flood casualties.
+
+Max Super Speciality Hospital
+  Location: Manduwala Road, northern Dehradun
+  Zone: Manduwala
+  Coordinates: 30.3680 N, 78.0220 E
+  Status: Fully operational. Trauma unit on standby.
+
+========================================================
+6. EMERGENCY RESPONDERS DEPLOYED
+========================================================
+
+NDRF Team Alpha
+  Type: NDRF
+  Location: Kandoli Flood Zone, eastern Dehradun
+  Zone: Kandoli
+  Coordinates: 30.3210 N, 78.0590 E
+  Status: Active rescue operations. 2 boats deployed.
+
+NDRF Team Bravo
+  Type: NDRF
+  Location: Sewla Kalan, southern Dehradun
+  Zone: Sewla Kalan
+  Coordinates: 30.2910 N, 78.0360 E
+  Status: Evacuating cut-off colonies.
+
+Dehradun Police Control Room
+  Type: Police
+  Location: Manduwala Control Point, northern Dehradun
+  Zone: Manduwala
+  Coordinates: 30.3710 N, 78.0190 E
+  Status: Coordinating all rescue operations.
+
+SDRF Ambulance Unit
+  Type: Ambulance
+  Location: Clement Town Base, southwestern Dehradun
+  Zone: Clement Town
+  Coordinates: 30.2810 N, 78.0010 E
+  Status: 4 ambulances deployed. 2 on standby.
+
+Fire Brigade Raipur Station
+  Type: Fire
+  Location: Raipur Road Station, eastern Dehradun
+  Zone: Raipur
+  Coordinates: 30.3390 N, 78.1090 E
+  Status: Deployed for water pumping and rescue.
+
+========================================================
+7. MAP CENTER INFORMATION
+========================================================
+
+Map Center: 30.3200 N, 78.0400 E
+Zoom Level: 12
+Region: Dehradun City and surrounding areas, Uttarakhand
+
+========================================================
+8. POPULATION AT RISK
+========================================================
+
+Estimated population in red zones: 28,000 persons
+Estimated population in amber zones: 45,000 persons
+Vulnerable population (elderly, disabled, pregnant): approx. 3,200 persons
+Tourists and pilgrims in affected areas: approx. 800 persons
+
+========================================================
+9. IMMEDIATE INSTRUCTIONS TO PUBLIC
+========================================================
+
+1. Residents of Kandoli, Niranjanpur, and Sewla Kalan must evacuate NOW.
+2. Do not attempt to cross flooded roads or bridges.
+3. Move to the nearest shelter on higher ground immediately.
+4. Call 112 for emergency rescue. Call 1077 for SDRF.
+5. Do not use Rispana Bridge Road or Sewla Kalan Link Road.
+6. Carry essential medicines, documents, and 3 days of food.
+7. Help elderly and disabled neighbours to evacuate.
+8. Do not spread unverified information on social media.
+
+========================================================
+10. WEATHER FORECAST
+========================================================
+
+IMD Dehradun forecast: Heavy to very heavy rainfall expected to continue
+for the next 12 hours. Red alert issued for Dehradun district.
+Flood situation expected to worsen before 14:00 IST today.
+All residents in low-lying areas must complete evacuation before 08:00 IST.
+
+========================================================
+
+Signed:
+District Collector, Dehradun
+District Disaster Management Authority
+Uttarakhand State Disaster Management Authority
+
+Emergency Helpline: 112
+SDRF Helpline: 1077
+District Control Room: 0135-2653200
+
+========================================================
